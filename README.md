@@ -3,8 +3,8 @@ This case study explores Amazon product data to uncover insights on pricing, cus
 
 ## Files in This Repository
 
-- 📊 [Download Dashboard (Excel)](./Amazon_Review_Dashboard.xlsx)
-- 📑 [View Pivot Table Solutions (Excel)](./Amazon_Review_Analysis_PivotTables.xlsx)
+- 📊 [Download Dashboard (Excel)](./Visuals.xlsx)
+- 📑 [View Pivot Table Solutions (Excel)](./Results.xlsx)
 
 ## 🧠 Key Questions Answered
 
@@ -38,8 +38,6 @@ This analysis revealed strong performance in Electronics and Computers & Accesso
 - **Track rating sentiment**—ratings are strong overall but small drops could impact sales
 
 ---
-
-Thanks for checking out this project! Feel free to explore the files or reach out with feedback 💬✨
 
 
 ## 🔗 Files

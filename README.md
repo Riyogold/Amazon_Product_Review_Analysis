@@ -1,44 +1,47 @@
-# AMAZON PRODUCT REVIEW ANALYSIS
+# Amazon Product Review Analysis — Excel Dashboard
+This case study explores Amazon product data to uncover insights on pricing, customer engagement, product performance, and revenue opportunities using Excel PivotTables and dashboards.
 
-## Objectives
-- Identify pricing trends and discount patterns
-- Highlight top-performing products and categories
-- Explore relationships between reviews, ratings, and revenue
+## Files in This Repository
 
-## Techniques
-- PivotTables for aggregation and ranking
-- Calculated fields (discount %, revenue, rating groups)
-- Excel dashboard with slicers
+- 📊 [Download Dashboard (Excel)](./Amazon_Review_Dashboard.xlsx)
+- 📑 [View Pivot Table Solutions (Excel)](./Amazon_Review_Analysis_PivotTables.xlsx)
 
-## Questions Asked
-1. What is the average discount percentage by product category?
-2. How many products are listed under each category?
-3. What is the total number of reviews per category?
-4. Which products have the highest average ratings?
-5. What is the average actual price vs the discounted price by category?
-6. Which products have the highest number of reviews?
-7. How many products have a discount of 50% or more?
-8. What is the distribution of product ratings (e.g., how many products are rated 3.0,4.0, etc.)?
-9. What is the total potential revenue (actual_price × rating_count) by category?
-10. What is the number of unique products per price range bucket (e.g., <₹200,₹200–₹500, >₹500)?
-11. How does the rating relate to the level of discount?
-12. How many products have fewer than 1,000 reviews?
-13. Which categories have products with the highest discounts?
-14. Identify the top 5 products in terms of rating and number of reviews combined.
+## 🧠 Key Questions Answered
 
+- What is the average discount percentage by product category?
+- How many products are listed under each category?
+- What is the total number of reviews per category?
+- Which products have the highest average ratings?
+- What is the average actual price vs discounted price by category?
+- Which products have the highest number of reviews?
+- How many products have a discount of 50% or more?
+- What is the distribution of product ratings?
+- What is the total potential revenue by category?
+- How many unique products fall within specific price buckets?
 
-## Key Insights
-- **Explore Pivot Table Solutions:**
+*(Full pivot answers included in the Excel file above)*
 
-[Click here to view/download the Pivot Tables file](https://github.com/Riyogold/Amazon_Product_Review_Analysis/blob/main/Amazon_Review_Analysis_PivotTables.xlsx)
+---
 
+## ✅ Conclusion
 
+This analysis revealed strong performance in Electronics and Computers & Accessories, both in revenue and customer ratings. A majority of products were priced above ₹500 and rated 4.0 or higher. High discounts in Home Improvement and Fashion were notable, but not always linked to high review volume.
 
-## **Download the Dashboard:**
+---
 
-[Click here to view/download the Excel Dashboard](https://github.com/Riyogold/Amazon_Product_Review_Analysis/blob/main/Amazon_Review_Dashboard.xlsx)
+## 📌 Recommendations
+
+- **Focus marketing** on Electronics & Accessories—highest revenue and ratings  
+- **Promote top-reviewed products** with badges and search visibility  
+- **Explore bundles** for cables, headphones, and frequently bought-together items  
+- **Investigate weak performers** in Toys, Games & Office Products for improvement  
+- **Track rating sentiment**—ratings are strong overall but small drops could impact sales
+
+---
+
+Thanks for checking out this project! Feel free to explore the files or reach out with feedback 💬✨
 
 
 ## 🔗 Files
-- `Amazon_Review_Analysis_PivotTables.xlsx`
-- `Amazon_Review_Dashboard.xlsx`
+- `Results.xlsx`
+- `Visuals.xlsx`
